@@ -1,0 +1,7 @@
+{
+  "name": "supose-compta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
